@@ -1,7 +1,7 @@
 {
   "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/sandaruwanss/DARK-NERO/",
+  "repository": "https://github.com/sandaruwanss/DARK-NERO",
   "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
